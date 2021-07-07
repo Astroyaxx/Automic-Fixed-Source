@@ -22,6 +22,9 @@ HOW TO INSTALL:
 9. And click Compile
 10. Wait until it's done and check APK Easy Tool folder search for recompiled apk's and then just upload it somewhere and download it to your phone or smth
 
+forgot one thing you need platform-tools too that you can get from https://developer.android.com/studio/releases/platform-tools
+download it and then place platform-tools to c: drive
+
 Will put the program to releases too
 
 To edit open main.cpp and just edit there i guess
