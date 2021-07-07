@@ -29,6 +29,8 @@ Will put the program to releases too
 
 To edit open main.cpp and just edit there i guess
 
+# Download gt folder from here https://www.mediafire.com/file/36hsl06zz1xqeqw/gt.rar/file and put it to the same folder as the other things
+
 
 ![Screenshot_2](https://user-images.githubusercontent.com/87024607/124707249-3d386700-df01-11eb-9eae-d8d7e67e1092.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/87024607/124707250-3dd0fd80-df01-11eb-849b-8723e27caa3d.png)
