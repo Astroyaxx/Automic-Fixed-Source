@@ -1,5 +1,10 @@
+![Screenshot_1](https://user-images.githubusercontent.com/87024607/124707246-3c073a00-df01-11eb-9f61-22b0d7fdf5b4.png)
+![Screenshot_2](https://user-images.githubusercontent.com/87024607/124707249-3d386700-df01-11eb-9eae-d8d7e67e1092.png)
+![Screenshot_3](https://user-images.githubusercontent.com/87024607/124707250-3dd0fd80-df01-11eb-849b-8723e27caa3d.png)
+![Screenshot_4](https://user-images.githubusercontent.com/87024607/124707252-3dd0fd80-df01-11eb-82b7-ab6472e6249a.png)
 # Automic-Fixed-Source
 Growtopia Android Autofarm 
+Good for farming in Growtopia, has multiple settings etc
 
 if you have any problems you can always message me on discord Astroyaxx#2259
 do not change the name to your autofarm pointless
