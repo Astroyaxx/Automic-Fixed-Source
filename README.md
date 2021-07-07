@@ -5,7 +5,7 @@ Growtopia Android Autofarm
 # Good for farming in Growtopia, has multiple settings etc
 
 if you have any problems you can always message me on discord Astroyaxx#2259.
-do not change the name to your autofarm it's pointless
+you can do what you want lmao
 
 If you want to build it Visual Studio 2019/2017 is a must!
 
