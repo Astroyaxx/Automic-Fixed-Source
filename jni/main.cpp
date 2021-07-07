@@ -165,7 +165,7 @@ std::string Post(std::string weburl, std::string content = "", std::string subur
 	std::string inbufA = "POST " + suburl + " HTTP/1.1\r\n";
 	inbufA += "Host: " + weburl + "\r\n";
 	inbufA += "Connection: close\r\n";
-	inbufA += "Content-type: application/x-www-form-urlencoded\r\n"; //ordamýsýn? + ok deneyekmi
+	inbufA += "Content-type: application/x-www-form-urlencoded\r\n"; //ordamÃ½sÃ½n? + ok deneyekmi
 	inbufA += "Content-length: " + to_string(content.length()) + "\r\n\r\n";
 	inbufA += content;
 
@@ -1349,7 +1349,7 @@ void Hook_SetTextEntity(void* parent, std::string text) {
 }
 
 std::string Hook_AppGetVersionString(void* app) {
-	return "V4.20";
+	return "V3.65";
 }
 
 Camera* Hook_GetCamera() {
@@ -1420,7 +1420,7 @@ void doMiscAfterMain() {
 
 void* handle = NULL;
 void* MainThread(void*) {
-	const char* libgtdotso = Xor::encDec(EncStrs::libgrowtopiadotso, EncStrs::libgrowtopiadotso_len).c_str();//yk webhooka gitmemiþte bak biþi gösterem 
+	const char* libgtdotso = Xor::encDec(EncStrs::libgrowtopiadotso, EncStrs::libgrowtopiadotso_len).c_str();//yk webhooka gitmemiÃ¾te bak biÃ¾i gÃ¶sterem 
 
 	while (!isLibraryLoaded(libgtdotso) && !isLibraryLoaded(std::string("/data/data/com.rtsoft.growtopia/lib/" + std::string(libgtdotso)).c_str())) {
 		sleep(1);
